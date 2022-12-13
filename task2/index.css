@@ -1,6 +1,7 @@
 .background-container{
     background-color: black;
     width: 98%;
+    max-width: 130%;
     margin: auto;
 }
 .main-heading{
@@ -65,4 +66,13 @@
     text-align: center;
     font-size: 15px;
     padding-bottom: 30px;
+}
+@media screen and (max-width: 120%){
+    p{
+        font-size: 23px;
+    }
+    h1{
+        font-size: 42px;
+    }
+    
 }
