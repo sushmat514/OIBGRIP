@@ -27,20 +27,7 @@
     margin-top: 20px;
     padding-left: 10px;
 }
-/*
-.display-container{
-    background-color: lightskyblue;
-    
-}*/
-/* .keys-container{
-    background-color: skyblue;
-    padding: 20px;
-    border-radius: 8px;
-    color: #2596be;
-    font-weight: bold;
-    font-size: 18px;
-    margin: 5px;
-} */
+
 .keys-parent-container{
     display: flex;
     flex-direction: row;
@@ -76,7 +63,6 @@ span{
 h1{
     text-align: end;
     font-weight: bold;
-    /* font-size: 43px; */
 }
 p{
     color:#169bd9;
